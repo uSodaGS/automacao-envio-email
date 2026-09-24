@@ -1,0 +1,29 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos da campanha
+Controle de Amostras - conferência.xlsx
+Fumaça_PROMO.jpeg
+Gustavo_v2026.png
+
+#email
+templates/email.html
+
+# Logs
+log_disparo_*.csv
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
